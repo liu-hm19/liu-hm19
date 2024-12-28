@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on [kusion](https://github.com/KusionStack/kusion), a declarative intent-driven **Platform Orchestrator** for **Internal Developer Platform (IDP)**.
+- 🌱 I’m currently focusing on technologies and applications of **Cloud Native**, **Platform Engineering**, and **AI**.
+- 👯 I’m looking to collaborate on building [KusionStack](https://github.com/KusionStack) community. 
+
+[![Xiaoming's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-hm19)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **liu-hm19/liu-hm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
