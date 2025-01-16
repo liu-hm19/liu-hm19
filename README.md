@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on [kusion](https://github.com/KusionStack/kusion), a declarative intent-driven **Platform Orchestrator** for **Internal Developer Platform (IDP)**.
 - 🌱 I’m currently focusing on technologies and applications of **Cloud Native**, **Platform Engineering**, and **AI**.
-- 👯 I’m looking to collaborate on building [KusionStack](https://github.com/KusionStack) community. 
+- 👯 I’m looking to collaborate on building [KusionStack](https://github.com/KusionStack) community.
+- 🤔 If you're interested, my previous work as a postgraduate student concerning blockchain & mobile core network control plane can be found [here](https://ieeexplore.ieee.org/author/37089448807). 
 
 [![Xiaoming's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-hm19)](https://github.com/anuraghazra/github-readme-stats)
 
