@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on building [KusionStack](https://github.com/KusionStack) community.
 - 🤔 If you're interested, my previous work as a postgraduate student concerning blockchain & mobile core network control plane can be found [here](https://ieeexplore.ieee.org/author/37089448807). 
 
-[![Xiaoming's GitHub stats](https://github-readme-stats.vercel.app/api?username=liu-hm19)](https://github.com/anuraghazra/github-readme-stats)
+[![Xiaoming's GitHub stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **liu-hm19/liu-hm19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
